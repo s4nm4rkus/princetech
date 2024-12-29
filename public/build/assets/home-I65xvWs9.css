@@ -1,0 +1,11 @@
+/* resources/css/home.style.css */
+body {
+    background-color: #d30e0e;
+}
+
+.home-content {
+    font-size: 24px;
+    text-align: center;
+    padding: 20px;
+    color: #333;
+}
